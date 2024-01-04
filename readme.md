@@ -41,8 +41,13 @@ Run Node Express server
 
 ## Resources
 
+[React Native](https://reactnative.dev)
+
 [Chatbot UI Design in Figma](https://www.figma.com/file/fDVGONQEAlwFiMn2EmEvXE/Chatbot-UI?type=design&node-id=0%3A1&mode=design&t=1O3dLDmBwfbqf7it-1)
 
 [Full Chatbot UI Design](https://www.figma.com/community/file/1248969555006205609)
 
+[React Native Icon Directory](https://oblador.github.io/react-native-vector-icons/)
+
+[OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
 # 
